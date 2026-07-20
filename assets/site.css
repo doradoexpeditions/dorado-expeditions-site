@@ -98,7 +98,7 @@ footer a:hover{color:var(--gold)}
 .prose p{margin-bottom:18px}
 .lead{font-size:clamp(1.05rem,1.8vw,1.2rem)}
 .pull{border-left:3px solid var(--gold);padding:6px 0 6px 22px;font-family:'Source Serif 4',serif;font-size:1.25rem;color:var(--sea);font-style:italic}
-.portrait{width:100%;max-width:380px;aspect-ratio:3/4;object-fit:cover;object-position:center;border-radius:6px;border:1px solid var(--line)}
+.portrait{width:100%;max-width:380px;aspect-ratio:3/4;object-fit:cover;object-position:20% center;border-radius:6px;border:1px solid var(--line)}
 /* reveal */
 .rv{opacity:0;transform:translateY(14px);transition:opacity .6s ease,transform .6s ease}
 .rv.in{opacity:1;transform:none}
